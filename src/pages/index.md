@@ -1,17 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Independent Specialist Engineers & Building Consultants
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
+  title: The Value of Independent Expertise
+  description:
+    MCS Group is a privately owned Australian company specialising in the provision of independent specialist technical services nationally to the Insurance and Legal professions, Government agencies and Private individuals.
+
+
+    Absolute independence is essential because completely unbiased professional opinions will ensure accuracy and impartiality.
+
+
+    Impartiality is critical if your reports impact third parties. Any connection with services flowing from reports must be entirely accurate and precise and for this reason MCS Group does not undertake restoration or repair work.
+
+
+    MCS Group is an independent company; you can rely on the impartial advice we provide.
+description: >
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
@@ -68,3 +74,23 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
+### Shade-grown coffee
+
+Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+
+### Single origin
+
+Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+
+### Sustainable farming
+
+Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+
+### Direct sourcing
+
+Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+
+### Reinvest profits
+
+We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
