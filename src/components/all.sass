@@ -8,6 +8,14 @@ $black: #2b2523
 
 @import "~bulma/bulma.sass"
 
+h2
+  padding-bottom: 0.4rem 
+  display: inline-block
+  border-bottom: $secondary 4px solid
+
+h3
+  text-transform: uppercase
+
 //Navigation
 .main-navigation
   border-top: 5px solid $secondary
@@ -124,6 +132,9 @@ $black: #2b2523
 .blog-list-item .featured-thumbnail
   flex-basis: 35%
   margin: 0 1.5em 0 0
+.content
+  ul
+    list-style-image: url('../img/tick.png')
 
 footer.footer
   padding: 3rem
@@ -138,6 +149,14 @@ footer.footer
     color:#ffffff
     text-decoration: underline
     background-color: transparent
+
+.primary-box
+  color: #ffffff
+  background-color: $primary
+
+.secondary-box
+  color: #ffffff
+  background-color: $secondary
 
 // responsiveness
 +desktop

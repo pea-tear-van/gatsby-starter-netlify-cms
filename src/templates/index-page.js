@@ -27,14 +27,35 @@ export const IndexPageTemplate = ({
         {title}
       </h1>
     </div>
-
-    <section className="section">
+    <section className="section pb-0 pt-5">
       <div className="container">
         <div className="columns">
           <div className="column is-6 is-offset-1">
             <div className="content">
               <h2 className="title is-size-3">{mainpitch.title}</h2>
-              {mainpitch.description}
+              {/* {mainpitch.description} */}
+              <p>
+                <strong>
+                  MCS Group is a privately owned Australian company specialising
+                  in the provision of independent specialist technical services
+                  nationally to the Insurance and Legal professions, Government
+                  agencies and Private individuals.
+                </strong>
+              </p>
+
+              <p>
+                Absolute independence is essential because completely unbiased
+                professional opinions will ensure accuracy and impartiality.
+                Impartiality is critical if your reports impact third parties.
+                Any connection with services flowing from reports must be
+                entirely accurate and precise and for this reason MCS Group does
+                not undertake restoration or repair work.{" "}
+              </p>
+
+              <p>
+                MCS Group is an independent company; you can rely on the
+                impartial advice we provide.
+              </p>
             </div>
           </div>
           <div className="column is-3 is-offset-1">
@@ -53,7 +74,133 @@ export const IndexPageTemplate = ({
               </ul>
             </div>
           </div>
-        
+        </div>
+      </div>
+    </section>
+    <section className="section">
+      <div className="container">
+        <div className="columns">
+          <div className="column is-11 is-offset-1">
+            <h2 class="title is-size-3">
+              Professional Expertise and Primary Services{" "}
+            </h2>
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-5 is-offset-1">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">Engineers</h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
+          <div className="column is-5">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">
+              Building Consultants
+            </h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-5 is-offset-1">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">
+              Quantity Surveyors
+            </h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
+          <div className="column is-5">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">
+              Pool Experts
+            </h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-5 is-offset-1">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">Engineers</h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
+          <div className="column is-5">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">
+              Building Consultants
+            </h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-5 is-offset-1">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">
+              Quantity Surveyors
+            </h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
+          <div className="column is-5">
+            <h3 className="has-text-weight-bold is-size-5 mb-2">
+              Pool Experts
+            </h3>
+            <p>
+              MCS Engineers are highly experienced, qualified and cover a range
+              of engineering disciplines.
+            </p>
+            <p className="mt-4">
+              <button className="button is-primary is-outlined">
+                More Information
+              </button>
+            </p>
+          </div>
         </div>
       </div>
     </section>

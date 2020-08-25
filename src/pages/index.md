@@ -4,26 +4,7 @@ subheading: Support sustainable farming while enjoying a cup
 templateKey: index-page
 mainpitch:
   title: The Value of Independent Expertise
-  description: >-
-    MCS Group is a privately owned Australian company specialising in the
-
-    provision of independent specialist technical services nationally to the
-
-    Insurance and Legal professions, Government agencies and Private
-
-    individuals.
-
-
-
-    Absolute independence is essential because completely unbiased professional opinions will ensure accuracy and impartiality.
-
-
-
-    Impartiality is critical if your reports impact third parties. Any connection with services flowing from reports must be entirely accurate and precise and for this reason MCS Group does not undertake restoration or repair work.
-
-
-
-    MCS Group is an independent company; you can rely on the impartial advice we provide.
+  description: |-
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -79,3 +60,23 @@ description: >-
   We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.
 heading2: heading
 ---
+
+    MCS Group is a privately owned Australian company specialising in the
+
+    provision of independent specialist technical services nationally to the
+
+    Insurance and Legal professions, Government agencies and Private
+
+    individuals.
+
+
+
+    Absolute independence is essential because completely unbiased professional opinions will ensure accuracy and impartiality.
+
+
+
+    Impartiality is critical if your reports impact third parties. Any connection with services flowing from reports must be entirely accurate and precise and for this reason MCS Group does not undertake restoration or repair work.
+
+
+
+    MCS Group is an independent company; you can rely on the impartial advice we provide.
