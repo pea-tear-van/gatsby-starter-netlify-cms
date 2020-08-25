@@ -1,13 +1,14 @@
 ---
-templateKey: index-page
-title: Independent Specialist Engineers & Building Consultants
-image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
+templateKey: index-page
 mainpitch:
   title: The Value of Independent Expertise
-  description:
-    MCS Group is a privately owned Australian company specialising in the provision of independent specialist technical services nationally to the Insurance and Legal professions, Government agencies and Private individuals.
+  description: >-
+    MCS Group is a privately owned Australian company specialising in the
+    provision of independent specialist technical services nationally to the
+    Insurance and Legal professions, Government agencies and Private
+    individuals.
 
 
     Absolute independence is essential because completely unbiased professional opinions will ensure accuracy and impartiality.
@@ -17,11 +18,6 @@ mainpitch:
 
 
     MCS Group is an independent company; you can rely on the impartial advice we provide.
-description: >
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -57,6 +53,9 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+title: Independent Specialist Engineers & Building Consultants
+heading1: Heading
+heading2: heading
 main:
   heading: Great coffee with no compromises
   description: >
@@ -73,6 +72,21 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+seo:
+  description: |-
+    **test**
+
+    # **hoddy**
+
+    * asdfasf
+    * asdf
+  title: Test
+image: /img/home-jumbotron.jpg
+description: >
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 ---
 
 ### Shade-grown coffee
